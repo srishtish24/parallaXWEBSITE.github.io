@@ -100,7 +100,7 @@ div.text,div.text-vlog, div.text-and, div.text-earn{ font-family: myFirstFont;
       font-size: 70px;
 }
 
-}
+ }
  
  @media screen and (min-width:701px) and (max-width:1024px) {
     div.text, div.text-vlog, div.text-and, div.text-earn{  
